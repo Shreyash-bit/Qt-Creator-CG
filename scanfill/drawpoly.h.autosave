@@ -1,0 +1,7 @@
+#ifndef DRAWPOLY_H
+#define DRAWPOLY_H
+#include <cmath>
+#include <QImage>
+
+
+#endif // DRAWPOLY_H
